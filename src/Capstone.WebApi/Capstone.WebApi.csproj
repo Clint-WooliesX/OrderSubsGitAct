@@ -21,4 +21,8 @@
     <InternalsVisibleTo Include="Capstone.WebApi.Tests" />
   </ItemGroup>
 
+    <ItemGroup>
+    <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  </ItemGroup>
+
 </Project>
