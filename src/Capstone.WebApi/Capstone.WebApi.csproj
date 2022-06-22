@@ -5,6 +5,10 @@
     <Nullable>disable</Nullable>
     <ImplicitUsings>disable</ImplicitUsings>
     <UserSecretsId>e1428f6f-cf2f-4311-a592-47118a151e1a</UserSecretsId>
+    <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" 
+Condition="'$(VSToolsPath)' !=''" />
+<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets"
+Condition="true" />
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,9 +25,6 @@
     <InternalsVisibleTo Include="Capstone.WebApi.Tests" />
   </ItemGroup>
 
-<Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" 
-Condition="'$(VSToolsPath)' !=''" />
-<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v11.0\WebApplications\Microsoft.WebApplication.targets"
-Condition="true" />
+
 
 </Project>
