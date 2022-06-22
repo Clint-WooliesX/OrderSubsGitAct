@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/clintkingston/Desktop/nologyproject-main/nology-capstone-project/src/Capstone.WebApi/Capstone.WebApi.csproj": {}
+    "/Users/clintkingston/Desktop/OrderSubsGitAct/src/Capstone.WebApi/Capstone.WebApi.csproj": {}
   },
   "projects": {
-    "/Users/clintkingston/Desktop/nologyproject-main/nology-capstone-project/src/Capstone.WebApi/Capstone.WebApi.csproj": {
+    "/Users/clintkingston/Desktop/OrderSubsGitAct/src/Capstone.WebApi/Capstone.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/clintkingston/Desktop/nologyproject-main/nology-capstone-project/src/Capstone.WebApi/Capstone.WebApi.csproj",
+        "projectUniqueName": "/Users/clintkingston/Desktop/OrderSubsGitAct/src/Capstone.WebApi/Capstone.WebApi.csproj",
         "projectName": "Capstone.WebApi",
-        "projectPath": "/Users/clintkingston/Desktop/nologyproject-main/nology-capstone-project/src/Capstone.WebApi/Capstone.WebApi.csproj",
+        "projectPath": "/Users/clintkingston/Desktop/OrderSubsGitAct/src/Capstone.WebApi/Capstone.WebApi.csproj",
         "packagesPath": "/Users/clintkingston/.nuget/packages/",
-        "outputPath": "/Users/clintkingston/Desktop/nologyproject-main/nology-capstone-project/src/Capstone.WebApi/obj/",
+        "outputPath": "/Users/clintkingston/Desktop/OrderSubsGitAct/src/Capstone.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/clintkingston/.nuget/NuGet/NuGet.Config"
